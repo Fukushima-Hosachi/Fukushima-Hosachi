@@ -1,8 +1,11 @@
 
 <p>
-  しがない大学生です。<br>
+  しがない大学生でした。<br>
   動画編集したりモデリングしたりなどなど<br>
-  プログラミングはダメダメかも
+  プログラミングはダメダメかも<br>  
+  今はTA(テクニカルアーティスト)志望で就活してます<br>  
+  PythonとC#が得意言語です。よろしくお願いいたします。<br>  
+  
 </p>
 <a href="#"><img src="https://img.shields.io/badge/HTML-1572B6?style=flat&logo=html5&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Pr-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/></a>
