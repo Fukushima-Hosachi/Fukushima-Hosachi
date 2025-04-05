@@ -7,6 +7,7 @@
   PythonとC#が得意言語です。よろしくお願いいたします。<br>  
   
 </p>
+<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
 <a href="#"><img src="https://img.shields.io/badge/HTML-1572B6?style=flat&logo=html5&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Pr-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Ai-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/></a>
